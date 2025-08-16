@@ -1,6 +1,6 @@
 # Icon Hider - Um atalho para um ecrã limpo!
 
-![GIF de um gato a esconder o rosto](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVqZ254a3k0c2Z0a2NqZzZpY2ZqN3A2b3BqN3A2b3BqN3A2b3BqN3A2b3BqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKS022G1Iu7SbrG/giphy.gif)
+![GIF de um gato a esconder o rosto]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVqZ254a3k0c2Z0a2NqZzZpY2ZqN3A2b3BqN3A2b3BqN3A2b3BqN3A2b3BqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKS022G1Iu7SbrG/giphy.gif](https://imgur.com/a/WugHcOa))
 
 Cansado de ter que clicar com o botão direito do rato para "Ocultar ícones da área de trabalho"? Ou simplesmente tem preguiça de o fazer sempre que precisa de um ecrã limpo para uma apresentação? Eu também. Por isso, criei esta pequena ferramenta em Python para resolver o problema com uma única tecla.
 
