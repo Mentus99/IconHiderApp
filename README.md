@@ -48,3 +48,5 @@ Quer trocar uma ideia, sugerir algo ou só se conectar? Me encontre aqui:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mendes2499/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.mendes.rodrigues@gmail.com)
 
+---
+*Criei esta ferramenta para resolver uma necessidade minha e para praticar Python com automação no Windows. Espero que seja útil para mais alguém!*
